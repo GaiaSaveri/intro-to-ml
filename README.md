@@ -1,7 +1,13 @@
 # Introduction to Machine Learning 2022-2023 
 
+Course for the Artificial Intelligence and Data Analytics Bachelor Degree - University of Trieste
+
+Fabio Anselmi, Luca Bortolussi, Alex Rodriguez, Gaia Saveri (gaia.saveri@phd.units.it / gaia.saveri@gmail.com)
+
 Notebooks: 
 
 * [Lab 0](notebooks/Lab-0.IntroColab.ipynb): Introduction to Google Colab 
 
-* [Lab 1](notebooks/Lab-1.Data_generation_and_visualization_for_regression_and_classification.ipynb): Data generation and visualization for regression and classification
+* [Lab 1](notebooks/Lab-1.Data_generation_and_visualization_for_regression_and_classification.ipynb): Data generation and visualization for regression and classification ([solution](solved-notebooks/SOLVED-Lab_1.Data_generation_and_visualization_for_regression_and_classification.ipynb))
+
+* [Lab 2](notebooks/Lab-2.Polynomial_Regression_Bias_Variance.ipynb): Bias-Variance Trade Off in Polynomial Regression 
