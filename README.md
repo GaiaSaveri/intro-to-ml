@@ -11,3 +11,5 @@ Notebooks:
 * [Lab 1](notebooks/Lab-1.Data_generation_and_visualization_for_regression_and_classification.ipynb): Data generation and visualization for regression and classification ([solution](solved-notebooks/SOLVED-Lab_1.Data_generation_and_visualization_for_regression_and_classification.ipynb))
 
 * [Lab 2](notebooks/Lab-2.Polynomial_Regression_Bias_Variance.ipynb): Bias-Variance Trade Off in Polynomial Regression 
+
+* [Lab 3](notebooks/Lab-3.LinearLogisticRegression.ipynb): Linear and Logistic Regression
