@@ -15,3 +15,7 @@ Notebooks:
 * [Lab 3](notebooks/Lab-3.LinearLogisticRegression.ipynb): Linear and Logistic Regression ([solution](solved-notebooks/SOLVED-Lab-3.LinearLogisticRegression.ipynb))
 
 * [Lab 4](notebooks/Lab-4.RegressionAndRegularizations.ipynb): Regularized Linear Regression and K-Fold Cross Validation
+
+Challenges:
+
+* [Challenge 0](challenges/challenge-zero.ipynb): Data Cleaning, Regularizzed Logistic Regression and Model Assessment
