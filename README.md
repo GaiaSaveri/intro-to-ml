@@ -16,6 +16,8 @@ Notebooks:
 
 * [Lab 4](notebooks/Lab-4.RegressionAndRegularizations.ipynb): Regularized Linear Regression and K-Fold Cross Validation
 
+* [Lab 5](notebooks/Lab-5.UnsupervisedLearning.ipynb): Unsupervised Learning Algorithms
+
 Challenges:
 
 * [Challenge 0](challenges/challenge-zero.ipynb): Data Cleaning, Regularizzed Logistic Regression and Model Assessment
