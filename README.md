@@ -22,9 +22,9 @@ Notebooks:
 
 * [Lab 6](notebooks/Lab-6.DecisionTreeNaiveBayes.ipynb): Decision Trees and Naive Bayes ([solution](solved-notebooks/SOLVED-Lab-6.DecisionTreeNaiveBayes.ipynb))
 
-* [Lab 7](notebooks/Lab-7.KNNGaussianNaiveBayesTrees.ipynb): KNN, Trees and Naive Bayes for numerical features  ([solution](solved-notebooks/SOLVED-Lab-7.KNNGaussianNaiveBayesTrees.ipynb))
+* [Lab 7](notebooks/Lab-7.KNNGaussianNaiveBayesTrees.ipynb): KNN, Trees and Naive Bayes for numerical features ([solution](solved-notebooks/SOLVED-Lab-7.KNNGaussianNaiveBayesTrees.ipynb))
 
-* [Lab 8](notebooks/Lab-8.Perceptron_and_SVM.ipynb): Perceptron and Support Vector Machines
+* [Lab 8](notebooks/Lab-8.Perceptron_and_SVM.ipynb): Perceptron and Support Vector Machines ([solution](solved-notebooks/SOLVED-Lab-8.Perceptron_and_SVM.ipynb))
 
 Challenges:
 
