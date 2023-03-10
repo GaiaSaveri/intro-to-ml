@@ -26,6 +26,8 @@ Notebooks:
 
 * [Lab 8](notebooks/Lab-8.Perceptron_and_SVM.ipynb): Perceptron and Support Vector Machines ([solution](solved-notebooks/SOLVED-Lab-8.Perceptron_and_SVM.ipynb))
 
+* [Lab 8](notebooks/Lab-9.Kernel_Regression.ipynb): Kernel Regression
+
 Challenges:
 
 * [Challenge 0](challenges/challenge-zero.ipynb): Data Cleaning, Regularized Logistic Regression and Model Assessment
