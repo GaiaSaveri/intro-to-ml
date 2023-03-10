@@ -26,7 +26,7 @@ Notebooks:
 
 * [Lab 8](notebooks/Lab-8.Perceptron_and_SVM.ipynb): Perceptron and Support Vector Machines ([solution](solved-notebooks/SOLVED-Lab-8.Perceptron_and_SVM.ipynb))
 
-* [Lab 8](notebooks/Lab-9.Kernel_Regression.ipynb): Kernel Regression
+* [Lab 9](notebooks/Lab-9.Kernel_Regression.ipynb): Kernel Regression
 
 Challenges:
 
