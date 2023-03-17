@@ -28,6 +28,8 @@ Notebooks:
 
 * [Lab 9](notebooks/Lab-9.Kernel_Regression.ipynb): Kernel Regression ([solution](solved-notebooks/SOLVED-Lab-9.Kernel_Regression.ipynb))
 
+* [Lab10](notebooks/Lab-10.KernelPCA_KernelSVM.ipynb): Kernel PCA e Kernel SVM
+
 Challenges:
 
 * [Challenge 0](challenges/challenge-zero.ipynb): Data Cleaning, Regularized Logistic Regression and Model Assessment
