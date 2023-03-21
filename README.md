@@ -35,3 +35,5 @@ Challenges:
 * [Challenge 0](challenges/challenge-zero.ipynb): Data Cleaning, Regularized Logistic Regression and Model Assessment
 
 * [Challenge 1](challenges/challenge-one.ipynb): Binary Classification with Unsupervised and Supervised Learning Techniques
+
+* [Challenge 2](challenges/challenge_two.ipynb): Kernel Ridge Regression, Kernel PCA and SVM
