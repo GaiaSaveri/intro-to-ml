@@ -28,9 +28,9 @@ Notebooks:
 
 * [Lab 9](notebooks/Lab-9.Kernel_Regression.ipynb): Kernel Regression ([solution](solved-notebooks/SOLVED_Lab_9_Kernel_Regression.ipynb))
 
-* [Lab10](notebooks/Lab-10.KernelPCA_KernelSVM.ipynb): Kernel PCA and Kernel SVM ([solution](solved-notebooks/SOLVED-Lab-10_KernelPCA_KernelSVM.ipynb))
+* [Lab 10](notebooks/Lab-10.KernelPCA_KernelSVM.ipynb): Kernel PCA and Kernel SVM ([solution](solved-notebooks/SOLVED-Lab-10_KernelPCA_KernelSVM.ipynb))
 
-* [Lab11](notebooks/Lab-11.Pytorch_NN.ipynb): Introduction to PyTorch
+* [Lab 11](notebooks/Lab-11.Pytorch_NN.ipynb): Introduction to PyTorch
 
 Challenges:
 
