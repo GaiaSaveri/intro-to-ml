@@ -30,6 +30,8 @@ Notebooks:
 
 * [Lab10](notebooks/Lab-10.KernelPCA_KernelSVM.ipynb): Kernel PCA and Kernel SVM ([solution](solved-notebooks/SOLVED-Lab-10_KernelPCA_KernelSVM.ipynb))
 
+* [Lab11](notebooks/Lab-11.Pytorch_NN.ipynb): Introduction to PyTorch
+
 Challenges:
 
 * [Challenge 0](challenges/challenge-zero.ipynb): Data Cleaning, Regularized Logistic Regression and Model Assessment
