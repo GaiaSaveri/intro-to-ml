@@ -34,6 +34,8 @@ Notebooks:
 
 * [Lab 12](notebooks/Lab-12.Implicit_regularization.ipynb): Implicit_regularization ([solution](solved-notebooks/SOLVED-Lab-12.Implicit_regularization.ipynb))
 
+* [Lab 13](notebooks/Lab-13.Autoencoders.ipynb): Autoencoders
+
 Challenges:
 
 * [Challenge 0](challenges/challenge-zero.ipynb): Data Cleaning, Regularized Logistic Regression and Model Assessment
