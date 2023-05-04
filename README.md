@@ -36,6 +36,8 @@ Notebooks:
 
 * [Lab 13](notebooks/Lab-13.Autoencoders.ipynb): Autoencoders ([solution](solved-notebooks/SOLVED-Lab-13.Autoencoders.ipynb))
 
+* [Lab 14](notebooks/Lab-14.Q&A.ipynb): Q & A
+
 Challenges:
 
 * [Challenge 0](challenges/challenge-zero.ipynb): Data Cleaning, Regularized Logistic Regression and Model Assessment
