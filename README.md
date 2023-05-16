@@ -32,11 +32,13 @@ Notebooks:
 
 * [Lab 11](notebooks/Lab-11.Pytorch_NN.ipynb): Introduction to PyTorch
 
-* [Lab 12](notebooks/Lab-12.Implicit_regularization.ipynb): Implicit_regularization ([solution](solved-notebooks/SOLVED-Lab-12.Implicit_regularization.ipynb))
+* [Lab 12](notebooks/Lab-12.Implicit_regularization.ipynb): Implicit regularization ([solution](solved-notebooks/SOLVED-Lab-12.Implicit_regularization.ipynb))
 
 * [Lab 13](notebooks/Lab-13.Autoencoders.ipynb): Autoencoders ([solution](solved-notebooks/SOLVED-Lab-13.Autoencoders.ipynb))
 
 * [Lab 14](notebooks/Lab-14.Q&A.ipynb): Q & A
+
+* [Lab 15](notebooks/Lab-15.RL_QLearning.ipynb): Reinforcement Learning pt. 1, Q-Learning
 
 Challenges:
 
