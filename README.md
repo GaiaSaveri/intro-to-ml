@@ -40,7 +40,7 @@ Notebooks:
 
 * [Lab 15](notebooks/Lab-15.RL_QLearning.ipynb): Reinforcement Learning pt. 1, Q-Learning ([solution](solved-notebooks/SOLVED-Lab-15.RL_QLearning.ipynb))
 
-* [Lab 16](notebooks/Lab-16.RL_DeepQLearning.ipynb): Reinforcement Learning pt. 2, Deep Q-Learning 
+* [Lab 16](notebooks/Lab-16.RL_DeepQLearning.ipynb): Reinforcement Learning pt. 2, Deep Q-Learning ([solution](solved-notebooks/SOLVED-Lab-16.RL_DeepQLearning.ipynb))
 
 Challenges:
 
